@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import { FaCamera } from 'react-icons/fa';
+
 function Navbar() {
   return (
     <div><header className="text-gray-400 bg-gradient-to-r from-cyan-500 to-white... body-font  ">
