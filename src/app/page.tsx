@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from './componet/hero/page'
-import Navbar from './componet/navbar/page'
+
 import About from './componet/about/page'
 import Careers from './componet/careers/page'
 import Contact from './componet/contact/page'

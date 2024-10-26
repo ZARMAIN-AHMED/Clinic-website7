@@ -22,7 +22,7 @@ function Careers() {
               1) STAY HYDRATE: By drinking lots of water.<br />
               2) DRINK: Lemonade, Lassi, ORS, and beverages rich in electrolytes.<br />
               3) AVOID: Heavy physical activity.<br />
-              4) DON'T: Go out in the sun without sunscreen on!<br />
+              4) DONT: Go out in the sun without sunscreen on.<br />
               5) KEEP: Yourself cool by taking a cold shower.<br />
               6) Cool your car down quickly.<br />
               7) CONSUME: Fresh fruits and vegetables.<br />
